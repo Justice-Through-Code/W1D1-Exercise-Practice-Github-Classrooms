@@ -75,7 +75,6 @@ This is where _your_ code goes. Just like elsewhere, there are elements here tha
 
 ```python3
 def hello_world():
-    # WRITE ALL OF YOUR CODE (INDENTED) HERE
     # print out the string 'Hello World!'
     
 ```
@@ -84,7 +83,7 @@ All of the code you write should be _indented_ into the `hello_world` function. 
 
 ```python3
 def hello_world():
-    print('Your code goes here!')
+    print('Hello World!')
     
 ```
 
